@@ -1,0 +1,34 @@
+
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÙÂ½Œøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÁÎ«ä
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ï¬õ¡ÿÿÿÿÿ
+a
+java:S2147["DCombine this catch with the one at line 88, which has the same body.(ï­£Ä8ºÛœÄ/
+M
+java:S1135Y"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S1135\"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ£¼Ö
+…
+java:S1319,"jThe type of "objectList" should be an interface such as "List" rather than the implementation "ArrayList".(ÏôÇ½úÿÿÿÿ
+†
+java:S1319F"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆ©¹¶
+P
+java:S1141/"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S11412"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141M"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f
+java:S2095""PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(³äÇ•
+i
+java:S2095!"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İâ«òûÿÿÿÿ
+r
+java:S20950"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8—¦Ä/
+k
+java:S2095."NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(öƒ·¸8£“Ä/
+j
+java:S2095J"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(”¹«ÿüÿÿÿÿ
+H
+java:S26890"-Do not use a FileOutputStream in append mode.(¥€ë˜øÿÿÿÿ

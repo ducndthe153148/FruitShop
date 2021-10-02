@@ -1,0 +1,39 @@
+
+P
+java:S1118	":Add a private constructor to hide the implicit public one.(©øÊ¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤«ºÑ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ‚ÇÅ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¤«ºÑ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(èæšùÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ø—ùğ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ÿ·â™
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(™Í…ª
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÇÛ½³
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¿“£¿
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(™Í…ª
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ÇÛ½³
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(Ç­ÉÛúÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(™Í…ª
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(ÇÛ½³
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(‚ú€­øÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(™Í…ª
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(—¤·Áşÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(Ô÷¸
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(™Í…ª
+T	java:S106"9Replace this use of System.out or System.err by a logger.(—„Ç¸ùÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ô÷¸
+V	java:S106"9Replace this use of System.out or System.err by a logger.(™Í…ª8µõûŒÄ/
+d
+java:S1192:"NDefine a constant instead of duplicating this literal "Enter again: " 6 times.(™Í…ª
+~
+java:S1319“"bThe type of "lf" should be an interface such as "List" rather than the implementation "ArrayList".(à¨Íúûÿÿÿÿ
+„
+java:S1319"hThe type of "userList" should be an interface such as "List" rather than the implementation "ArrayList".(›£¥æùÿÿÿÿ
+
+java:S1319§"hThe type of "userList" should be an interface such as "List" rather than the implementation "ArrayList".(©ß¬û
+y
+java:S1319°"bThe type of "lo" should be an interface such as "List" rather than the implementation "ArrayList".(¶¶…
+y
+java:S1488T"^Immediately return this expression instead of assigning it to the temporary variable "result".(Õ¡œÿşÿÿÿÿ
+t
+java:S1488c"^Immediately return this expression instead of assigning it to the temporary variable "result".(¢¬Êº

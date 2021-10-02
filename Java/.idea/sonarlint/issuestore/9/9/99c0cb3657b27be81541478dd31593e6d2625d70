@@ -1,0 +1,25 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŒÄ„
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(úø¢ƒ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(™ÄÇÑ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(àü…Íÿÿÿÿÿ
+h
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ê¢¨
+T	java:S106"9Replace this use of System.out or System.err by a logger.(À»©øÿÿÿÿ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(˜®Ÿ”
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(‚ï–
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(ë½è¾şÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(À»©øÿÿÿÿ
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(ÀãÁÒ
+g
+java:S1192a"QDefine a constant instead of duplicating this literal "Enter fruit id: " 3 times.(·¡ï
+„
+java:S1319W"iThe type of "fruitList" should be an interface such as "List" rather than the implementation "ArrayList".(÷¨Øûÿÿÿÿ
+„
+java:S1319^"iThe type of "fruitList" should be an interface such as "List" rather than the implementation "ArrayList".(¬÷Ã»şÿÿÿÿ
+
+java:S1319ˆ"iThe type of "fruitList" should be an interface such as "List" rather than the implementation "ArrayList".(Ê¢¨
+€
+java:S1319°"iThe type of "fruitList" should be an interface such as "List" rather than the implementation "ArrayList".(°çå
+€
+java:S1319Ä"iThe type of "fruitList" should be an interface such as "List" rather than the implementation "ArrayList".(»é©Œ

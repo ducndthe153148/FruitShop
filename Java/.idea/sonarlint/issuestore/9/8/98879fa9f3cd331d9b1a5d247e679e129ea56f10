@@ -1,0 +1,15 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ô¸Œìşÿÿÿÿ
+l
+java:S1149Y"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(¾­îÖ
+l
+java:S1149x"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(€ÁçÁ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(øêñ
+}
+java:S1319\"bThe type of "lf" should be an interface such as "List" rather than the implementation "ArrayList".(äˆèÀøÿÿÿÿ
+…
+java:S1319x"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(€ÁçÁ
+‹
+java:S1319|"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›©”øùÿÿÿÿ
+y
+java:S1319€"bThe type of "lo" should be an interface such as "List" rather than the implementation "ArrayList".(¥ŒÒ§

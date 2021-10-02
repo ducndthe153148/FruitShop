@@ -1,0 +1,25 @@
+
+K
+java:S2209"5Change this instance-reference to a static reference.(¯¾µÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒáŠ®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ©ˆ©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢êÓã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÍØâ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(Šª‚
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ŒÆÿÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(î–çŸøÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(î–çŸøÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÇËó»ÿÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(—ò‚Œ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(‚ç“ôøÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(¨½ú¨
+D
+java:S1481`".Remove this unused "countItem" local variable.(Ô«ßæ
+g
+java:S3457a"Q%n should be used in place of \n to produce the platform-specific line separator.(€¸ù
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(€¸ù
+l
+java:S3457c"Q%n should be used in place of \n to produce the platform-specific line separator.(¹ºÂÜüÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(¹ºÂÜüÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

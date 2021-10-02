@@ -1,0 +1,79 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "um".(øöÜıÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+B
+java:S1481"'Remove this unused "um" local variable.(øöÜıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í„‘ğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïìı
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÿ½®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù÷Ç÷
+D
+java:S24406")Remove this instantiation of "FruitView".(‚¨íÖıÿÿÿÿ
+D
+java:S24408")Remove this instantiation of "OrderView".(áè¸áÿÿÿÿÿ
+K
+java:S2209:"5Change this instance-reference to a static reference.(ÜÉÈˆ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(‘©ÕÜ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Øò¾çøÿÿÿÿ
+K
+java:S2209@"5Change this instance-reference to a static reference.(ÿ‘‰’
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(»Ğ¹¬
+Q
+java:S1854]"6Remove this useless assignment to local variable "ov".(áè¸áÿÿÿÿÿ
+K
+java:S1854\"6Remove this useless assignment to local variable "om".(ô‘Äy
+A
+java:S1172L"+Remove this unused method parameter "user".(ïóÚä
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(Í„‘ğ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(âÂÿÌüÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(×óşÛ
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(÷‘L
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(õÎş‘úÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(‹†Úã
+f	java:S128h"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ
+<
+java:S1481\"'Remove this unused "om" local variable.(ô‘Äy
+D
+java:S2440]")Remove this instantiation of "OrderView".(áè¸áÿÿÿÿÿ
+B
+java:S1481]"'Remove this unused "ov" local variable.(áè¸áÿÿÿÿÿ
+g
+java:S3457_"Q%n should be used in place of \n to produce the platform-specific line separator.(¥£Ë
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(¥£Ë
+g
+java:S3457a"Q%n should be used in place of \n to produce the platform-specific line separator.(©’óˆ
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(©’óˆ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(¡Æ³úÿÿÿÿ
+Q
+java:S1854}"6Remove this useless assignment to local variable "ov".(áè¸áÿÿÿÿÿ
+K
+java:S1854|"6Remove this useless assignment to local variable "om".(ô‘Äy
+F
+java:S1172p"+Remove this unused method parameter "user".(¸Òîèùÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Í„‘ğ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ù¸µ×øÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ÃÖ‚¢øÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ÒÓ¡›
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(”â¶g
+g	java:S128ˆ"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ
+<
+java:S1481|"'Remove this unused "om" local variable.(ô‘Äy
+D
+java:S2440}")Remove this instantiation of "OrderView".(áè¸áÿÿÿÿÿ
+B
+java:S1481}"'Remove this unused "ov" local variable.(áè¸áÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¥£Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥£Ë
+h
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(©’óˆ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(©’óˆ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(¡Æ³úÿÿÿÿ
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÒÜÅ¸úÿÿÿÿ
+h
+java:S1192"RDefine a constant instead of duplicating this literal "FRUIT SHOP SYSTEM" 3 times.(Í„‘ğ
+0
+java:S1220""Move this file to a named package.
